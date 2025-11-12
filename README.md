@@ -22,8 +22,5 @@ It answers analytical questions such as screen time trends, battery usage, app i
 2. Execute the queries in the `.sql` file.
 3. Review insights generated from the output tables.
 
----
 
-**Author:** Gouri Akash  
-**Project Type:** Data Analytics (SQL)
 
